@@ -10,9 +10,9 @@ Aqui estão as tecnologias que utilizo no meu dia a dia para construir soluçõe
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagem Principal** | ![Python](https://shields.io) |
-| **Framework Web** | ![Django](https://shields.io) |
-| **Banco de Dados** | ![MySQL](https://shields.io) |
+| **Linguagem Principal** |
+| **Framework Web** |
+| **Banco de Dados** | 
 
 ---
 
@@ -20,7 +20,7 @@ Estes são os principais projetos que desenvolvi para aplicar meus conhecimentos
 
 *   **🛒 E-commerce Completo**: Sistema de comércio eletrônico com gerenciamento de produtos, carrinho de compras e controle de estoque automatizado no banco de dados.
     *   *Tecnologias:* Python, Django, MySQL.
-    *   *🔗 [Acessar Repositório do E-commerce](https://github.com)*
+    *   *🔗 [Acessar Repositório do E-commerce](https://github.com/Ian2570/E-commerce)*
 
 *   **📅 Agenda Online**: Aplicação para agendamento e organização de compromissos com interface limpa e integração direta com o servidor.
     *   *Tecnologias:* Python, Django, HTML, MySQL.
